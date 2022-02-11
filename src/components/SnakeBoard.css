@@ -1,0 +1,11 @@
+.cell {
+  /* line-height: 1rem; */
+  padding: 8px;
+  border: 1px solid grey;
+  width: 2rem;
+  height: 2rem;
+}
+
+.row {
+  display: flex;
+}
